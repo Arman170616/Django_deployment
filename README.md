@@ -2,7 +2,7 @@
 
 This is all about django project
 
-project 01 => Demo Auth
+project 01 => Django Auth
 
 project 02 => Blog site
 
